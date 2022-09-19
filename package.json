@@ -1,0 +1,9 @@
+{
+  "name": "My-JavaScript-learning-path",
+  "version": "1.0.0",
+  "description": "My JavaScript knowledge",
+  "main": "index.js",
+  "repository": "https://github.com/MostafaFotouhi/My-JavaScript-Learning-Journey.git",
+  "author": "Mostafa Fotouhi",
+  "license": "MIT"
+}
