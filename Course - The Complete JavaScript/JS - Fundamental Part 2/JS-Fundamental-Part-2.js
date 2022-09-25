@@ -1,5 +1,5 @@
-"use strict"
-///////////////////////////////////////////// Coding Challange #1 /////////////////////////////////////////////
+'use strict';
+///////////////////////////////////////////// Coding Challange #1 🎯 /////////////////////////////////////////////
 
 // const calcAverage = (score1, score2, score3) => (score1 + score2 + score3) / 3;
 
@@ -18,7 +18,7 @@
 
 // checkWinner(calcAverageDolphins,calcAverageKoalas);
 
-///////////////////////////////////////////// Coding Challange #2 /////////////////////////////////////////////
+///////////////////////////////////////////// Coding Challange #2 🎯 /////////////////////////////////////////////
 
 // const calcTip = (bill) => bill > 50 && bill < 300 ? bill * 0.15 : bill * 0.2;
 
@@ -28,7 +28,7 @@
 
 // console.log(bills, tips, totals);
 
-///////////////////////////////////////////// Coding Challange #3 /////////////////////////////////////////////
+///////////////////////////////////////////// Coding Challange #3 🎯 /////////////////////////////////////////////
 
 // const mark = {
 //   fullName: 'Mark Miller',
@@ -48,10 +48,10 @@
 // }
 
 // const higherBMI = mark.calcBMI() > john.calcBMI() ?
-  // console.log(`Mark's BMI (${mark.calcBMI()}) is higher than John's BMI (${john.calcBMI()})`)
-  // : console.log(`John's BMI (${john.calcBMI()}) is higher than Mark's BMI (${mark.calcBMI()})`);
+// console.log(`Mark's BMI (${mark.calcBMI()}) is higher than John's BMI (${john.calcBMI()})`)
+// : console.log(`John's BMI (${john.calcBMI()}) is higher than Mark's BMI (${mark.calcBMI()})`);
 
-///////////////////////////////////////////// Coding Challange #4 /////////////////////////////////////////////
+///////////////////////////////////////////// Coding Challange #4 🎯 /////////////////////////////////////////////
 
 // const bills = [22,295,176,440,37,105,10,1100,86,52];
 // const tips = [];
