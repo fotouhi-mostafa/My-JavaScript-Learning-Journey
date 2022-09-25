@@ -51,7 +51,7 @@
   // console.log(`Mark's BMI (${mark.calcBMI()}) is higher than John's BMI (${john.calcBMI()})`)
   // : console.log(`John's BMI (${john.calcBMI()}) is higher than Mark's BMI (${mark.calcBMI()})`);
 
-///////////////////////////////////////////// Coding Challange #3 /////////////////////////////////////////////
+///////////////////////////////////////////// Coding Challange #4 /////////////////////////////////////////////
 
 // const bills = [22,295,176,440,37,105,10,1100,86,52];
 // const tips = [];
