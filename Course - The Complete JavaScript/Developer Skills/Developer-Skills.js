@@ -40,3 +40,26 @@
 // };
 
 // console.log(amplitudeTemp(tempratures1, tempratures2));
+
+///////////////////////////////////////////// Coding Challange #1 🎯 /////////////////////////////////////////////
+
+// 1) Understanding the problem
+// - Array transformed to string, seperated by ...
+// - What is  the X days? Answer: index + 1
+
+// 2) Breaking up into sub-problems
+// - Transform array into string
+// - Transform each element to string with C
+// - Strings needs to contain day (index + 1)
+// - Add ... between elements and start and end of string
+
+// const printForecast = function (arr) {
+//   let stringOutput = '...';
+//   for (let i = 0; i < arr.length; i++) {
+//     stringOutput += ` ${arr[i]}C in ${i + 1} days ...`;
+//   }
+//   return stringOutput;
+// };
+
+// console.log(printForecast([17, 21, 23]));
+// console.log(printForecast([12, 5, -5, 0, 4]));
