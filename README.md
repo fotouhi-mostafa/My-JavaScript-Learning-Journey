@@ -22,3 +22,11 @@ _My Coding Tools_ :
 
 - [Nodejs]()
 - [live-server]()
+
+## 💼 Projects
+
+Projects that I built during JavaScript learning
+
+- [Game - Guess my number](https://github.com/MostafaFotouhi/Game---guess-my-number)
+- [Mini Project - Modal window](https://github.com/MostafaFotouhi/Modal-window)
+- [Game - Pig game](https://github.com/MostafaFotouhi/pig-game)
