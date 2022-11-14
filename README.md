@@ -4,7 +4,7 @@ I want to start my JavaScript knowledge improvement journey, and I want to share
 
 > "Practice makes perfect ✌" -Benjamin Franklin
 
-## 🤓 course
+## 🎞 Course
 I'm watching this course for my JavaScript knowledge improvement.
 [The complete JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/)
 
