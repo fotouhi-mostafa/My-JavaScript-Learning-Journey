@@ -23,3 +23,13 @@
 **📝 Tip10: The event loop: JavaScript has a runtime model based on an event loop, which is responsible for executing the code, collecting and processing events, and executing queued sub-tasks.**
 
 **📝 Tip11: Execution Context: Environment in which a piece of JavaScript is executed. Stores all the necessary information for some code to be executed. There are two kinds of Execution Context in JavaScript: Global Execution Context (GEC) - Function Execution Context (FEC)**
+
+**📝 Tip12: Every execution context includes "variable environment", "scope chain" and "this keyword". The variable environment includes "let - const - var decelerations", "functions" and "arguments object". of course, "Arrow Functions" don't include "arguments object" and "this keyword".**
+
+**📝 Tip13: Scoping: How our programs variables are organized and accessed**
+**📝 Tip14: Lexical Scope: Scoping is controlled by placement of functions and blocks in the code**
+**📝 Tip15: Scope: Space or environment in which a certain variable is declared(variable environment in case of functions). There is global scope, function scope(local scope) and block scope**
+**📝 Tip16: Scope of variable: Region of our code where a certain variable can be accessed**
+**📝 Tip17: Variables declared in global scope are accessible everywhere**
+**📝 Tip18: Functions are also block scoped, only in strict mode**
+**📝 Tip17: Variables declared in block scope are accessible only inside block (let - const)**
