@@ -27,9 +27,21 @@
 **📝 Tip12: Every execution context includes "variable environment", "scope chain" and "this keyword". The variable environment includes "let - const - var decelerations", "functions" and "arguments object". of course, "Arrow Functions" don't include "arguments object" and "this keyword".**
 
 **📝 Tip13: Scoping: How our programs variables are organized and accessed**
+
 **📝 Tip14: Lexical Scope: Scoping is controlled by placement of functions and blocks in the code**
+
 **📝 Tip15: Scope: Space or environment in which a certain variable is declared(variable environment in case of functions). There is global scope, function scope(local scope) and block scope**
+
 **📝 Tip16: Scope of variable: Region of our code where a certain variable can be accessed**
+
 **📝 Tip17: Variables declared in global scope are accessible everywhere**
+
 **📝 Tip18: Functions are also block scoped, only in strict mode**
-**📝 Tip17: Variables declared in block scope are accessible only inside block (let - const)**
+
+**📝 Tip19: Variables declared in block scope are accessible only inside block (let - const)**
+
+**📝 Tip20: In "strict mode" the functions are "block scope"**
+
+**📝 Tip21: Hoisting: Makes some types of variables accessible/usable in the code before they are declared.**
+
+**📝 Tip22: Hoisting(behind the scenes): Before execution, the code scanned for variable declarations, and for each variable, a new property is created in the variable environment object.**
