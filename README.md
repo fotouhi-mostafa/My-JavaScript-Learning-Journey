@@ -4,6 +4,10 @@ I want to start my JavaScript knowledge improvement journey, and I want to share
 
 > "Practice makes perfect ✌" -Benjamin Franklin
 
+## 🎞 Course
+I'm watching this course for my JavaScript knowledge improvement.
+[The complete JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/)
+
 ## ⚙ My tools
 
 _My laptop_ : [Lenovo Ideapad 5 Pro](<https://www.lenovo.com/us/en/p/laptops/ideapad/ideapad-500/ideapad-5-pro-gen-7-(16-inch-amd)/len101i0049?orgRef=https%253A%252F%252Fwww.google.com%252F>)
