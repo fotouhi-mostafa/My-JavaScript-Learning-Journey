@@ -44,4 +44,17 @@
 
 **📝 Tip21: Hoisting: Makes some types of variables accessible/usable in the code before they are declared.**
 
+| items                 | Hoisted                           | Initial value | Scope                 |
+| --------------------- | --------------------------------- | ------------- | --------------------- |
+| fn decelarations      | Yes                               | actual fn     | block(in strict mode) |
+| var variable          | Yes                               | undefined     | function              |
+| let & const variables | No                                | TDZ           | block                 |
+| fn expression         | Depends on using var or let/const |
+
 **📝 Tip22: Hoisting(behind the scenes): Before execution, the code scanned for variable declarations, and for each variable, a new property is created in the variable environment object.**
+
+**📝 Tip23: TDZ(Temporal Dead Zone): A temporal dead zone (TDZ) is the area of a block where a variable is inaccessible until the moment the computer completely initializes it with a value.**
+
+![Temporal Dead Zone](https://res.cloudinary.com/practicaldev/image/fetch/s--IX3V7X76--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sqouc39kfyfzeu0ica7i.png)
+
+**📝 Tip24: Variables defined with let and const do not exist in the window object.**
