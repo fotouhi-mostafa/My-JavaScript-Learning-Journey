@@ -58,3 +58,11 @@
 ![Temporal Dead Zone](https://res.cloudinary.com/practicaldev/image/fetch/s--IX3V7X76--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sqouc39kfyfzeu0ica7i.png)
 
 **📝 Tip24: Variables defined with let and const do not exist in the window object.**
+
+**📝 Tip25: The "this" keyword refer to its own parent when it is used in the "arrow function".**
+
+**📝 Tip26: In the "strict mode", the "this" keyword refers to "window object" when it is used in "regular function", else it's equal to "undefined".**
+
+**📝 Tip27: For writing "methods" it's better to don't use "arrow functions".**
+
+**📝 Tip28: The "arrow function" does not get its own "this" keyword.**
