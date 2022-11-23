@@ -66,3 +66,8 @@
 **📝 Tip27: For writing "methods" it's better to don't use "arrow functions".**
 
 **📝 Tip28: The "arrow function" does not get its own "this" keyword.**
+
+**📝 Tip29: The primitive types and the reference types**
+
+![Primitive Types & Reference Types](https://miro.medium.com/max/1100/1*6NdX4JHxJEqjEc4C31KLsQ.png)
+![Primitive Types & Reference Types](https://miro.medium.com/max/1100/1*RWaSRnWAYdJ1FG2NjkqVew.png)
