@@ -1,5 +1,4 @@
-'use strict';
-
+// 'use strict';
 //❓ Problem 1 : Given an array of tempratures of one day, calculate the tempreture amplitude. Keep in mind that sometimes there might be a sensor error.
 
 // 1) Understanding the problem
